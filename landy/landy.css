@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: black;
+    margin: auto;
+    background-image: url(http://tongal.s3.amazonaws.com/community/2086a3791/Confetti1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+}
+#title_div{
+    text-align: center;
+    margin: auto;
+}
+#title{
+    border-style: hidden;
+    margin: auto;
+    text-align: center;
+}
+#head{
+    color: #ff0000;
+    font-size: 75px;
+    text-shadow: 2px 2px black;
+}
+td{
+    color: #ff0000;
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+}
+img{
+    width: 300px;
+}

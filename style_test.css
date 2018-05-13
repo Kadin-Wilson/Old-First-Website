@@ -1,0 +1,11 @@
+div {
+	background-color: slategrey;
+	width: 500px;
+	border-radius: 25px;
+        margin: auto;
+        text-align: center;
+}
+
+p {
+       color: white;
+}

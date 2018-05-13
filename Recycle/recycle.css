@@ -1,0 +1,30 @@
+#game{
+	background-color: lightblue;
+	border-radius: 25px;
+	border: 5px solid black;
+}
+#title{
+	text-align: center;
+	margin: auto;
+	background-color: lightblue;
+	border-radius: 25px;
+	border: 5px solid black;
+	width: 1000px;
+}
+body{
+	background-image: url('recycling-symbol.jpg');
+	background-size: 10%;
+}
+span{
+	font-size: 500%;
+}
+h1{
+	font-size: 500%;
+	margin: auto;
+}
+#game_score{
+	padding: 5px 5px 5px 5px;
+	background-color: lightblue;
+	border-radius: 25px;
+	border: 5px solid black;
+}
